@@ -79,7 +79,7 @@ publish
 *.Publish.xml
 
 # NuGet Packages Directory
-packages
+# packages // need this so that I can deploy to app harbor
 
 # Windows Azure Build Output
 csx
